@@ -10,7 +10,7 @@
 ### Pset1 - Introduction to C (C)
 
 - [Hello, world!](pset1/hello/hello.c)
-- [Mario](pset1/mario/mario.c)
+- [Mario](pset1/Mario/mario.c)
 > Implementing a greedy algorithim to minimize the number of coins you’re dispensing as change for each customer.
 - [Cash](pset1/cash/cash.c)
 
@@ -27,7 +27,7 @@
 
 > Implementing programs that runs [Pluarality](https://en.wikipedia.org/wiki/Plurality_voting) and [Runoff](https://www.ncsl.org/research/elections-and-campaigns/primary-runoff-elections.aspx) elections.
 
-- [Plurality](pset3/pluarlity/../plurality/plurality.c)
+- [Plurality](pset3/plurality/plurality.c)
 - [Runoff](pset3/runoff/runoff.c)
 
 ### Pset4 - Memory (C)
@@ -42,7 +42,7 @@
 
 > Implementing a program that spell-checks a file.
 
-- Speller ([Hash Table](pset5/speller/hash/dictionary.c) & [Trie](pset5/speller/trie/dictionary.c))
+- Speller (pset5)
 
 ### Pset6 - Introduction to Python (Python)
 
