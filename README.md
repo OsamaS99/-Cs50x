@@ -42,7 +42,7 @@
 
 > Implementing a program that spell-checks a file.
 
-- Speller (pset5)
+- [Speller] (pset5)
 
 ### Pset6 - Introduction to Python (Python)
 
