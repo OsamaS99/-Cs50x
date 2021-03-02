@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://i.ytimg.com/vi/FsYdgKO4AQU/maxresdefault.jpg" height="450"/>
-    <h1>Harvards CS50: Introduction to Computer Science</h1>
-</div>
 
 > Please keep in mind [Academic Honesty](https://cs50.harvard.edu/x/2020/syllabus/#academic-honesty). There are many great communities for support and help, such as [CS50 Stack Exchange](https://cs50.stackexchange.com/), the [CS50 Subreddit](https://www.reddit.com/r/cs50/) and the [CS50 Slack](http://cs50.edx.org/slack) to name a few. Investing your time and energy into solving each and every problem set indepdently is the best way to experience the course and the only way to eventual mastery.
 
